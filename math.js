@@ -9,7 +9,7 @@ function sub(a, b) {
   return a - b;
 }
 
-function mult(a, b) {
+function mult(a, b, c) {
   // Harder math!
-  return a * b;
+  return a * b * c;
 }
